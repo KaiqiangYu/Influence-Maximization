@@ -1,0 +1,8 @@
+Oct 23, 2019, 3:59:33 PM	p2p08
+Oct 23, 2019, 3:59:34 PM	p2p08-RandomAlg budget:5 5.161860000000002
+Oct 23, 2019, 4:00:06 PM	p2p08-GreedyAlg budget:5 6.989
+Oct 23, 2019, 4:00:43 PM	p2p08-AstarAlg budget:5 7.248
+Oct 23, 2019, 4:00:54 PM	p2p08-HstarAlg budget:5 5.176
+Oct 23, 2019, 4:00:54 PM	p2p08-RandomAlg budget:5 10.36877
+Oct 23, 2019, 4:02:25 PM	p2p08
+Oct 23, 2019, 4:02:26 PM	p2p08-RandomAlg budget:5 5.156460000000001

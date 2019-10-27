@@ -1,0 +1,16 @@
+Oct 23, 2019, 3:44:31 PM	wiki
+Oct 23, 2019, 3:44:32 PM	wiki-RandomAlg budget:5 635.7529999999998
+Oct 23, 2019, 3:46:36 PM	p2p
+Oct 23, 2019, 3:46:36 PM	p2p-RandomAlg budget:5 5.196900000000003
+Oct 23, 2019, 3:47:26 PM	p2p-GreedyAlg budget:5 8.28
+Oct 23, 2019, 3:48:22 PM	p2p-AstarAlg budget:5 9.821
+Oct 23, 2019, 3:56:03 PM	p2p08
+Oct 23, 2019, 3:56:04 PM	p2p08-RandomAlg budget:5 5.166659999999999
+Oct 23, 2019, 3:56:21 PM	p2p08-GreedyAlg budget:5 6.673
+Oct 23, 2019, 3:56:39 PM	p2p08-AstarAlg budget:5 6.845
+Oct 23, 2019, 3:56:43 PM	p2p08-HstarAlg budget:5 5.473
+Oct 23, 2019, 3:56:44 PM	p2p08-RandomAlg budget:5 10.32255
+Oct 23, 2019, 3:57:28 PM	p2p08-GreedyAlg budget:5 12.633
+Oct 23, 2019, 3:58:16 PM	p2p08-AstarAlg budget:5 13.499
+Oct 23, 2019, 3:58:24 PM	p2p08-HstarAlg budget:5 10.331
+Oct 23, 2019, 3:58:24 PM	p2p08-RandomAlg budget:5 15.512079999999996

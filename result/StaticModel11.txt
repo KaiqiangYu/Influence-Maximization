@@ -1,0 +1,32 @@
+Oct 25, 2019, 4:51:51 PM	wiki
+Oct 25, 2019, 4:52:18 PM	wiki
+Oct 25, 2019, 4:52:21 PM	wiki-RandomAlg budget:5 227.6445
+Oct 25, 2019, 4:52:44 PM	wiki
+Oct 25, 2019, 4:52:59 PM	wiki-RandomAlg budget:5 230.67288
+Oct 25, 2019, 4:59:43 PM	wiki
+Oct 25, 2019, 4:59:58 PM	wiki-RandomAlg budget:5 232.29500000000007
+Oct 25, 2019, 5:26:04 PM	wiki
+Oct 25, 2019, 5:26:19 PM	wiki-RandomAlg budget:5 231.21043999999992
+Oct 25, 2019, 5:31:40 PM	wiki-GreedyAlg budget:5 791.632
+Oct 25, 2019, 5:32:35 PM	wiki-AstarAlg budget:5 866.428
+Oct 25, 2019, 5:39:16 PM	wiki-HstarAlg budget:5 829.006
+Oct 25, 2019, 5:39:40 PM	wiki-RandomAlg budget:10 387.0027200000001
+Oct 25, 2019, 5:51:34 PM	wiki-GreedyAlg budget:10 804.388
+Oct 25, 2019, 5:53:17 PM	wiki-AstarAlg budget:10 964.826
+Oct 26, 2019, 3:55:32 AM	wiki-HstarAlg budget:10 863.62
+Oct 26, 2019, 3:56:02 AM	wiki-RandomAlg budget:15 462.87520000000006
+Oct 26, 2019, 9:55:16 AM	wiki-GreedyAlg budget:15 864.988
+Oct 26, 2019, 9:57:47 AM	wiki-AstarAlg budget:15 971.754
+Oct 26, 2019, 10:04:36 AM	wiki-HstarAlg budget:15 868.786
+Oct 26, 2019, 10:05:09 AM	wiki-RandomAlg budget:20 527.8066199999998
+Oct 26, 2019, 10:32:04 AM	wiki-GreedyAlg budget:20 880.904
+Oct 26, 2019, 10:34:52 AM	wiki-AstarAlg budget:20 977.778
+Oct 26, 2019, 10:41:43 AM	wiki-HstarAlg budget:20 905.16
+Oct 26, 2019, 10:42:20 AM	wiki-RandomAlg budget:25 600.1497800000001
+Oct 26, 2019, 11:18:12 AM	wiki-GreedyAlg budget:25 895.614
+Oct 26, 2019, 11:23:21 AM	wiki-AstarAlg budget:25 993.686
+Oct 26, 2019, 11:59:29 AM	wiki-HstarAlg budget:25 883.204
+Oct 26, 2019, 12:00:07 PM	wiki-RandomAlg budget:30 620.67056
+Oct 26, 2019, 12:42:03 PM	wiki-GreedyAlg budget:30 882.65
+Oct 26, 2019, 12:45:21 PM	wiki-AstarAlg budget:30 1016.282
+Oct 26, 2019, 12:52:16 PM	wiki-HstarAlg budget:30 938.048

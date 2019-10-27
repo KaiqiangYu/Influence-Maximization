@@ -1,0 +1,25 @@
+Oct 24, 2019, 1:42:05 PM	p2p08
+Oct 24, 2019, 1:42:06 PM	p2p08-RandomAlg budget:5 5.15731
+Oct 24, 2019, 1:43:30 PM	p2p08-GreedyAlg budget:5 7.154
+Oct 24, 2019, 1:45:57 PM	p2p08-AstarAlg budget:5 7.448
+Oct 24, 2019, 1:46:37 PM	p2p08-HstarAlg budget:5 7.48
+Oct 24, 2019, 1:46:38 PM	p2p08-RandomAlg budget:10 10.34201
+Oct 24, 2019, 1:50:34 PM	p2p08-GreedyAlg budget:10 13.121
+Oct 24, 2019, 1:58:26 PM	p2p08-AstarAlg budget:10 14.476
+Oct 24, 2019, 1:59:54 PM	p2p08-HstarAlg budget:10 13.592
+Oct 24, 2019, 1:59:54 PM	p2p08-RandomAlg budget:15 15.501800000000001
+Oct 24, 2019, 2:06:43 PM	p2p08-GreedyAlg budget:15 18.917
+Oct 24, 2019, 2:22:39 PM	p2p08-AstarAlg budget:15 21.755
+Oct 24, 2019, 2:25:06 PM	p2p08-HstarAlg budget:15 18.737
+Oct 24, 2019, 2:25:07 PM	p2p08-RandomAlg budget:20 20.66574
+Oct 24, 2019, 2:35:27 PM	p2p08-GreedyAlg budget:20 24.458
+Oct 24, 2019, 6:41:04 PM	p2p08-AstarAlg budget:20 28.48
+Oct 24, 2019, 6:44:12 PM	p2p08-HstarAlg budget:20 24.271
+Oct 24, 2019, 6:44:13 PM	p2p08-RandomAlg budget:25 25.80753
+Oct 24, 2019, 6:58:44 PM	p2p08-GreedyAlg budget:25 29.825
+Oct 24, 2019, 7:31:32 PM	p2p08-AstarAlg budget:25 33.715
+Oct 24, 2019, 7:36:15 PM	p2p08-HstarAlg budget:25 30.878
+Oct 24, 2019, 7:36:16 PM	p2p08-RandomAlg budget:30 31.060859999999995
+Oct 24, 2019, 7:55:07 PM	p2p08-GreedyAlg budget:30 35.285
+Oct 24, 2019, 8:36:52 PM	p2p08-AstarAlg budget:30 40.113
+Oct 24, 2019, 8:42:06 PM	p2p08-HstarAlg budget:30 35.98
